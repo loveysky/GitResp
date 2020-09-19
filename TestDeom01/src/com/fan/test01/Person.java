@@ -6,4 +6,5 @@ package com.fan.test01;
  */
 public class Person {
     private int age;
+    private double name;
 }
